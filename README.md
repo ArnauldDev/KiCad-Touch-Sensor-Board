@@ -1,8 +1,12 @@
 # Proto Board Touch-Sensor Controller
 
+![KiCad-QTouch-AT42QT2120-Top](images/KiCad-QTouch-AT42QT2120-Top-Blender.png)
+
 ![KiCad-QTouch-AT42QT2120-Top](images/KiCad-QTouch-AT42QT2120-Top-view.png)
 
 ![KiCad-QTouch-AT42QT2120-Bottom](images/KiCad-QTouch-AT42QT2120-Bottom-view.png)
+
+![KiCad-QTouch-AT42QT2120-Bottom](images/KiCad-QTouch-AT42QT2120-Bottom-Blender.png)
 
 ## AT42QT2120
 
