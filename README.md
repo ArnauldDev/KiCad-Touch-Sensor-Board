@@ -1,8 +1,12 @@
 # Proto Board Touch-Sensor Controller
 
+Top view of the [board with 3D rendering](https://forum.kicad.info/t/simple-tutorial-how-to-create-blender-3d-model-from-kicad/46485) generated with [Blender](https://www.blender.org/), see [Import PCB 3D Models from KiCad](https://extensions.blender.org/add-ons/pcb3d-importer/):
+
 ![KiCad-QTouch-AT42QT2120-Top](images/KiCad-QTouch-AT42QT2120-Top-Blender.png)
 
 ![KiCad-QTouch-AT42QT2120-Top](images/KiCad-QTouch-AT42QT2120-Top-view.png)
+
+Bottom view of the board and 3D rendering generated with Blender too:
 
 ![KiCad-QTouch-AT42QT2120-Bottom](images/KiCad-QTouch-AT42QT2120-Bottom-view.png)
 
@@ -29,17 +33,19 @@ Part Number: [ATQT1-XPRO](https://www.microchip.com/en-us/development-tool/ATQT1
 [SAM D20 XPLAINED PRO EVALUATION KIT](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/UserGuides/Atmel-42102-SAMD20-Xplained-Pro_User-Guide.pdf)<br>
 Part Number: [ATSAMD20-XPRO](https://www.microchip.com/en-us/development-tool/ATSAMD20-XPRO)
 
+---
+
+<br />
+
 ## SMD LED reverse mount
 
-SML-822MV8WT86
-LED, Rouge, Vert jaune, CMS - Montage inversé, Rectangulaire, R 20mA, YG 20mA
-https://fr.farnell.com/rohm/sml-822mv8wt86/led-rouge-jaune-vert-30-25mcd/dp/2908898 ***
-https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_multi/sml-822mv8wt86-e.pdf
-https://www.rohm.com/products/led/chip-leds-multi-color-type/sml-822mv8w-product
+LED, Rouge, Vert jaune, CMS - Montage inversé, Rectangulaire, R 20mA, YG 20mA<br>
+* [Farnell 2908898](https://fr.farnell.com/rohm/sml-822mv8wt86/led-rouge-jaune-vert-30-25mcd/dp/2908898)
+* [Rohm Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/opto/led/chip_multi/sml-822mv8wt86-e.pdf)
 
-LED CMS RVB PLCC à montage inverse
-https://www.digikey.fr/fr/product-highlight/s/sunled/reverse-mount-rgb-plcc-smd-led
-Référence fabricant : XZMDKCBDDG45S-9
+|               Package view                | Reverse mount available, 2-color LED (Yellow-green/Red)                                                                                                                                                                                                                            |
+| :---------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="images/SML825.png" width="200"> | Part Number: [SML-822MV8WT86](https://www.rohm.com/products/led/chip-leds-multi-color-type/sml-822mv8w-product)<br>SML-82 series is a two-color LED chip LED for back-mounting.<br>Rear mounting enables single-sided mounting, contributing to space saving in the mounting area. |
 
 ---
 
@@ -59,4 +65,4 @@ LED-Driver-PCA9635
 
 <!-- ![aliexpress-module-servo-shield](images/aliexpress-module-servo-shield.png) -->
 
-<img src="images/aliexpress-module-servo-shield.png" alt="aliexpress-module-servo-shield" width="300"/>
+<img src="images/aliexpress-module-servo-shield.png" alt="aliexpress-module-servo-shield" width="450"/>
