@@ -1,5 +1,9 @@
 # Proto Board Touch-Sensor Controller
 
+![KiCad-QTouch-AT42QT2120-Top](images/KiCad-QTouch-AT42QT2120-Top-view.png)
+
+![KiCad-QTouch-AT42QT2120-Bottom](images/KiCad-QTouch-AT42QT2120-Bottom-view.png)
+
 ## AT42QT2120
 
 Touch Sensor QTouch [AT42QT2120](https://www.microchip.com/en-us/product/at42qt2120): [view pdf datasheet online](https://ww1.microchip.com/downloads/en/DeviceDoc/doc9634.pdf)
@@ -49,4 +53,6 @@ LED-Driver-PCA9635
 
 [Breakout PCA9685PW module Servomotor Shield on Aliexpress](https://fr.aliexpress.com/item/1005007462728654.html)
 
-![aliexpress-module-servo-shield](images/aliexpress-module-servo-shield.png)
+<!-- ![aliexpress-module-servo-shield](images/aliexpress-module-servo-shield.png) -->
+
+<img src="images/aliexpress-module-servo-shield.png" alt="aliexpress-module-servo-shield" width="300"/>
